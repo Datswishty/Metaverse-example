@@ -1,0 +1,32 @@
+{
+    "addresses": {
+        "diamondcutFacet": "0x82EFFD83eC7aF589738e98c82037Afd3834e0A8C",
+        "diamond": "0xe23D2BEeD52Ff6592C9565FdfF94bb7b2F73fb04",
+        "storage": "0x1587D548Faf7C60A211B433efa284C880982Bf84",
+        "DiamondLoupeFacet": "0x9b289F86d11C93d6339eF0F093756533A38e54A3",
+        "OwnershipFacet": "0xd196E52A551DEf6DbcCBA014C3121E186d6dAa46",
+        "InteractionFacet": "0x48d2B1DAa0A32C784BFa491639D88859F4E7e5cB",
+        "StakingFacet": "0xdB98F1EF6b7E1b4Ce798B3843679aeA3d74B6BAb",
+        "StateManagerFacet": "0x95a6493DAEe714cae46AA84F8d22F48B5eF6001F",
+        "MarketplaceFacet": "0x0b8278bBc74a18e8BfC8f845fBFf685413089370",
+        "AuctionFacet": "0xE1e47f67f151cdaDf89F1E87b930DA608B6E51dA",
+        "LandNft": "0x437707502FfF5af219Db9782Fd22a376441CbbC4",
+        "LandImplementation": "0xc387a04dcD6e5135f6A5Ee7D5c140C38B59Dd791",
+        "ScaleNft": "0xE974a7950240377933c01Fbf34D93A30060BF390",
+        "ScaleImplementation": "0x9Ece2DcD0fD183C3631e8901c10ba9b77f2E5DD3",
+        "scaleComposable": "0xFac6fD017494d0a1EBc2262A0e9Ab46bd9456782",
+        "PlanetNft": "0x63997d06562e1037feB64F532ba5cE4153fc44Be",
+        "Treasury": "0x2fEeBeb8A7c80706E7abD8D0E5edbCAC9a29Ab43",
+        "Token": "0x173C71eBE80159B4dD996970A6199eAF970c46bE"
+    },
+    "deploymentVars": {
+        "diamond": [
+            "0x31233a0a6F651324c6787111bCaff10051F9D4f1",
+            "0x82EFFD83eC7aF589738e98c82037Afd3834e0A8C"
+        ],
+        "Token": [
+            "0x2fEeBeb8A7c80706E7abD8D0E5edbCAC9a29Ab43",
+            5
+        ]
+    }
+}
